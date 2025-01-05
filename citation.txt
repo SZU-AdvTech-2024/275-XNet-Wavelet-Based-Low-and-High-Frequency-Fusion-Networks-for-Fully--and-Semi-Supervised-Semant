@@ -1,0 +1,8 @@
+@inproceedings{REPO275,
+    author = "Zhou, Yanfeng and Huang, Jiaxing and Wang, Chenlong and Song, Le and Yang, Ge",
+    booktitle = "Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)",
+    month = "October",
+    pages = "21085-21096",
+    title = "{XNet: Wavelet-Based Low and High Frequency Fusion Networks for Fully- and Semi-Supervised Semantic Segmentation of Biomedical Images}",
+    year = "2023"
+}
